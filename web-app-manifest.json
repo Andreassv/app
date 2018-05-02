@@ -7,8 +7,8 @@
     }],
     "theme-color": "#f3f3f3",
     "backgound-color": "#ffffff",
-    "scope": "",
-    "start-url": "",
+    "scope": "https://andreassv.github.io/app/",
+    "start-url": "https://andreassv.github.io/app/index.html",
     "display": "stand-alone",
     "oritation": "portrait"
 }
