@@ -1,0 +1,14 @@
+{
+    "name": "memory app",
+    "icon": [{
+        "src": "Crash.jpg",
+        "sizes": "144*144",
+        "type": "image/jpg"
+    }],
+    "theme-color": "#f3f3f3",
+    "backgound-color": "#ffffff",
+    "scope": "",
+    "start-url": "",
+    "display": "stand-alone",
+    "oritation": "portrait"
+}
